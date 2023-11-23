@@ -1,0 +1,19 @@
+body{
+    font-family: Verdana;
+
+}
+header,footer,article,section{
+background-color: white;
+border:gray 1px solid;
+margin:5px;
+padding:8px;
+}
+
+.tst1{
+background-color: #444
+;
+color: white;
+}
+#t1{
+background-color: gray;
+}

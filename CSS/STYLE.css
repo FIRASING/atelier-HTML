@@ -1,0 +1,45 @@
+
+#test0{
+    color: rgb(72, 140, 14);
+font-size: 27px; 
+}
+#test1{
+color: rgb(53, 0, 243);
+font-size: 24px;
+}
+#test2{
+    color: rgb(0, 243, 36);  
+    font-size: 23px; 
+}
+#test3{
+    color: rgb(243, 0, 130);   
+    font-size: 22px;
+}
+#test4{
+    color: rgb(243, 98, 0);
+    font-size: 21px;
+
+}    
+body{
+    background-color: aqua;
+}
+.essentiel{
+    font-weight: bold;
+    color: blueviolet;
+}
+h1{
+    color: white;
+    background-color: gray;
+    padding: 5px;
+
+}
+h2{
+    color: red;
+    border: 3px solid red;
+   margin-left: 2px;
+   width: 300px;
+
+}
+p{
+    margin-left: 4em;
+}
